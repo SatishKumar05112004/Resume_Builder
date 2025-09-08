@@ -11,3 +11,5 @@ Real-time preview of the resume
 Downloadable formatted resume
 
 The live link of the project is given below: 
+
+https://satishkumar05112004.github.io/Resume_Builder/
